@@ -1,0 +1,1 @@
+[{"uid":"b6bd0f598f1ff82d","name":"Login via API returns token","time":{"start":1747903917033,"stop":1747903917503,"duration":470},"status":"passed","severity":"normal"},{"uid":"b4b2c75b99fecb24","name":"User logs in successfully","time":{"start":1747903920030,"stop":1747903921428,"duration":1398},"status":"passed","severity":"normal"}]
