@@ -48,6 +48,10 @@ jobs:
           MAILINATOR_TOKEN: ${{ secrets.MAILINATOR_TOKEN }}
           MAILINATOR_DOMAIN: ${{ secrets.MAILINATOR_DOMAIN }}
 
+  deploy-gh:
+    needs: acceptance-tests
+    runs-on: ubuntu-latest
+    steps:
       - name: Get Allure history
         uses: actions/checkout@v2
         if: always()
