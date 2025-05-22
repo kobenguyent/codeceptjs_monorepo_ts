@@ -1,1 +1,0 @@
-export = function () { return actor(); };
