@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","523","Login via API returns token","","Thu May 22 09:05:46 GMT 2025","passed","Thu May 22 09:05:47 GMT 2025","","API Login:","API Login:","Login via API returns token"
+"","1597","User logs in successfully","","Thu May 22 09:05:50 GMT 2025","passed","Thu May 22 09:05:51 GMT 2025","","Login:","Login:","User logs in successfully"
